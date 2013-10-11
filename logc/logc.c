@@ -20,6 +20,7 @@
 #define LOGC_TIME_FORMAT_STR_LENGTH		(255)
 #define LOGC_MESSAGE_FORMAT				"[%s]%s: %s\n"
 
+// Defines the logc settings struc
 struct __logc_settings_t__
 {
 	char *lvl_info_str;
@@ -28,6 +29,7 @@ struct __logc_settings_t__
 	char *lvl_time_format_str;
 };
 
+// Defines the logc object
 struct __logc_t__
 {
 	char *log_file;

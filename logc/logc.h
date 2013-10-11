@@ -12,6 +12,7 @@
 // Defines a log file object
 typedef struct __logc_t__ *logc_t;
 
+// Defines the log level enum
 typedef enum
 {
 	LOGC_LVL_INFO = 0,

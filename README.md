@@ -1,4 +1,4 @@
 logc
 ====
 
-A light logging library written in C
+A simple logging library written in C

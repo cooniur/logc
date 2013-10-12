@@ -2,7 +2,7 @@
 //  logc.c
 //  logc
 //
-//  Created by Tongliang Liu on 10/11/13.
+//  Created by cooniur on 10/11/13.
 //  Copyright (c) 2013 cooniur. All rights reserved.
 //
 
